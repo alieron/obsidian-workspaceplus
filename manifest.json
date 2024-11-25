@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "workspaceplus",
+	"name": "Workspace++",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Obsidian workspaces, but with additional functionality",
+	"author": "Alieron",
+	"authorUrl": "",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
